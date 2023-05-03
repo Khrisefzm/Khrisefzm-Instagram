@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(169, 168, 168);
+}
+h1{
+    width: 40%;
+    margin: auto;
+}
+h2{
+    width: 70%;
+}
+img{
+    width: 100%;
+}
+#header{
+    background-color: white;
+    width: 100%;
+}
+.box{
+    width: 40%;
+    margin: 15px auto;
+    background-color: white;
+}
+.photo-header{
+    display: flex;
+    padding: 0 1%;
+}
+.numbers{
+    width: 30%;
+    color: grey;
+    text-align: right;
+    padding-top: 1%;
+}
+.img-description{
+    width: 90%;
+    margin: auto;
+    padding: 3% 0;
+}
